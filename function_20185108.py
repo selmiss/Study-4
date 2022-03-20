@@ -1,1 +1,3 @@
-print('My student_id: 20185108')
+import os
+os.system('python function_20185108.py')
+trick
